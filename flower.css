@@ -1,0 +1,90 @@
+body{
+    margin: 0%;
+}
+.headerpart{
+    background-color: #e554733f;
+    display: flex;
+    padding: 3% 8% 0% 8%;
+    
+}
+
+.flower-btn{
+    border-radius: 5px;
+    background-color: #E55473;
+    border: 0;
+    color: white;
+    font-size:16px ;
+    font-weight: 700;
+    padding: 15px 20px;
+
+}
+.headertitle{
+    padding: 3%;
+    margin: 3%;
+    font-size: 30px;
+}
+
+.headerimg{
+    width: 500px;
+}
+
+.mainsection{
+    background-color: #e5547325;
+    display: flex;
+    padding: 3% 8% 0% 8%;
+}
+
+.mainpart{
+    margin-top:120px;
+    padding: 80px;
+    text-align: center;
+}
+.mainimg{
+    width: 30%;
+    padding: 100px;
+}
+
+.socialmedia{
+    padding: 00px 400px;
+    text-align: center;
+}
+
+.imagepart{
+    display: flex;
+    margin-left: 20px;
+
+}
+.imgsection{
+    width: 280px;
+    height: 376px;
+    flex-shrink: 0;
+    margin: 20px 0;
+    padding: 20px ;
+   
+}
+.details{
+    background-image: url(Rectangle\ 9.png);
+    margin: 50px;
+    text-align: center;
+}
+.socialmedia{
+    padding: 0 100px ;
+}
+.textpart{
+    padding: 100px;
+}
+
+.writesomething{
+    align-items: center;
+    padding: 15px 150px 15px 5px;
+    width: 150px;
+    border-radius: 5px;
+    border: 0;
+}
+
+.lastpart{
+    background-color: rgba(0, 0, 0, 0.795);
+    padding: 80px;
+    color: white;
+    text-align: center;
+}
